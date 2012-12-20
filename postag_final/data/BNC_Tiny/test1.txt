@@ -1,0 +1,1 @@
+NN1_FACTSHEET DTQ_WHAT VBZ_IS NN1_AIDS PUN_? NN1_AIDS AJ0_Immune NN1_Deficiency NN1_Syndrome VBZ_is AT0_a NN1_condition VVN_caused PRP_by AT0_a NN1_virus VVN_called NP0_HIV NN1_Immuno NN1_Deficiency NN1_Virus PUN_. DT0_This NN1_virus VVZ_affects AT0_the NN1_body NN1_'s NN1_defence NN1_system CJS_so PNP_it VM0_can VM0_not VVI_fight NN1_infection PUN_.
